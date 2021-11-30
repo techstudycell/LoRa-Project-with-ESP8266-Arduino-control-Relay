@@ -99,7 +99,7 @@ First, download the source codes. Then upload the code for the transmitter circu
 To avoid any loose connections, I have designed the PCB for the receier Lora circuit.
 
 You can download the PCB Gerber file of this home automation project from the following link:
-https://github.com/techstudycell/Blynk-ESP8266-Home-Automation-Project-02/tree/main/PCB_Gerber
+https://github.com/techstudycell/LoRa-Project-with-ESP8266-Arduino-control-Relay/tree/main/PCB_Gerber
 
 ## Order the PCB from JLCPCB
 After downloading the Garber file you can easily order the PCB
